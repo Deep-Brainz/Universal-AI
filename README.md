@@ -7,4 +7,4 @@ Watch “MIT AGI: Artificial General Intelligence” on YouTube for more details
 
 Universal AI with future Artificial SuperIntelligence: Building Tomorrow's State-of-the-art AI that Builds Revolutionary Advanced AI Empowering Humanity i.e., Building Tomorrow's State-of-the-art AI with DeepBrainz aka DeepBrainz Intelligent Systems: A Future Revolutionary Technology Startup Influencing World Industries by Cutting-edge #Technologies for "Empowering Humanity" through RnD, Innovation, & Breakthroughs with Mission, Vision, and Core Values! 
 For more details:
-https://github.com/Deep-Brainz/Universal-AI/wiki/DeepBrainz%E2%80%99s--Mission,-Vision,-and-Values
+https://github.com/Deep-Brainz/Universal-AI/wiki/
