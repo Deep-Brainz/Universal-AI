@@ -1,3 +1,10 @@
 # Universal AI
-  Building Universal AI which is Tomorrow's State-of-the-art AI that builds/develops AI, through BRAIN (Brainz Research of AI Neurons), AI Research Team and AI BRAIN Dev, AI Development Team at @DeepBrainz, "Empowering Humanity!"
-For Information: https://github.com/Deep-Brainz/Universal-AI/wiki
+  DeepBrainz’s Universal AI is the game-changing master project, focuses on building the future #Ethical Superintelligence EthicalASI as Tomorrow’s Advanced State-of-the-art AI in the #Universe. DeepBrainz EthicalAGI (Auto-E-AGI) for Automated and Ethical Artificial General Intelligence is the first & foremost main subproject with OKRs for building Universal AI Core System.
+
+For A Current Real-world instance,
+
+Watch “MIT AGI: Artificial General Intelligence” on YouTube for more details. https://lnkd.in/fMps6xv
+
+Universal AI with future Artificial SuperIntelligence: Building Tomorrow's State-of-the-art AI that Builds Revolutionary Advanced AI Empowering Humanity i.e., Building Tomorrow's State-of-the-art AI with DeepBrainz aka DeepBrainz Intelligent Systems: A Future Revolutionary Technology Startup Influencing World Industries by Cutting-edge #Technologies for "Empowering Humanity" through RnD, Innovation, & Breakthroughs with Mission, Vision, and Core Values! 
+For more details:
+https://github.com/Deep-Brainz/Universal-AI/wiki/DeepBrainz%E2%80%99s--Mission,-Vision,-and-Values
